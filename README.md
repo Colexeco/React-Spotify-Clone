@@ -1,0 +1,1 @@
+React Spotify clone inspired from [Web Dev Simplified's Tutorial](https://www.youtube.com/watch?v=Xcet6msf3eE&list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj&index=21&ab_channel=WebDevSimplified)
